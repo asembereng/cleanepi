@@ -61,6 +61,9 @@ performance = [
     "pyarrow>=12.0.0",
 ]
 
+[project.scripts]
+cleanepi = "cleanepi.cli:main"
+
 [project.urls]
 Homepage = "https://github.com/epiverse-trace/cleanepi"
 Documentation = "https://epiverse-trace.github.io/cleanepi/"
