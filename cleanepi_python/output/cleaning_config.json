@@ -1,0 +1,73 @@
+{
+  "standardize_column_names": true,
+  "replace_missing_values": {
+    "target_columns": null,
+    "na_strings": [
+      "-99",
+      "-999",
+      "99",
+      "999",
+      "N/A",
+      "NA",
+      "n/a",
+      "na",
+      "NULL",
+      "null",
+      "missing",
+      "unknown",
+      "error",
+      "MISSING",
+      "UNKNOWN",
+      "",
+      " ",
+      ".",
+      "...",
+      "undetectable",
+      "below detection",
+      "< 50",
+      "pending",
+      "not done",
+      "cancelled",
+      "?",
+      "-",
+      "--",
+      "???",
+      "TBD"
+    ],
+    "custom_na_by_column": {
+      "viral_load": [
+        "undetectable",
+        "< 50",
+        "below detection"
+      ],
+      "test_result": [
+        "error",
+        "pending",
+        "cancelled"
+      ],
+      "patient_age": [
+        "unknown age",
+        "age not recorded"
+      ]
+    }
+  },
+  "remove_duplicates": {
+    "target_columns": null,
+    "subset": null,
+    "keep": "first"
+  },
+  "remove_constants": {
+    "cutoff": 0.99,
+    "exclude_columns": [
+      "patient_id"
+    ]
+  },
+  "standardize_dates": null,
+  "standardize_subject_ids": null,
+  "to_numeric": null,
+  "dictionary": null,
+  "check_date_sequence": null,
+  "verbose": true,
+  "strict_validation": false,
+  "max_memory_usage": null
+}

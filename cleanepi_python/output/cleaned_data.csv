@@ -1,0 +1,1001 @@
+patient_id,study_id,first_name,date_of_birth,patient_age,test_result,viral_load,comments,mixed_column,sample_type
+P0353,STU-353,,"Feb 20, 1992",25,positive,,Good sample,4,Blood
+P0690,STU690,,15/02/1985,thirty-five,,1000,,five,Blood
+P0486,STU-486,,"Feb 20, 1992",30,positive,,Poor quality,1,Saliva
+P0389,STU-389,,"Feb 20, 1992",,1,,,4,Urine
+P0032,STU-032,John,1995/03/10,,,,,4,Blood
+P0443,STU-443,Jane,,40,indeterminate,1000,,five,Urine
+P0199,STU-199,Jane,,40,,,,two,Blood
+P0426,STU-426,Alice,1995/03/10,thirty-five,1,,,3.0,Saliva
+P0108,STU-108,Jane,15/02/1985,30,positive,,,1,Urine
+P0715,STU-715,Bob,,30,,1000,Good sample,1,Urine
+P0553,STU-553,,1990-01-01,thirty-five,1,,,five,Saliva
+P0676,STU-676,,,thirty-five,1,,Good sample,4,Saliva
+P0159,STU-159,,15/02/1985,,,1000,Poor quality,1,Blood
+P0476,STU-476,,15/02/1985,40,positive,999999,Poor quality,3.0,Blood
+P0424,STU-424,,,30,0,,Poor quality,3.0,Blood
+P0233,STU-233,,,,negative,1000,,,Blood
+P0618,STU-618,John,,,0,,Poor quality,two,Blood
+P0484,STU-484,,,,,,,,Saliva
+P0885,STU-885,,,30,0,1000,,two,Urine
+P0651,STU-651,John,,30,negative,,Poor quality,1,Urine
+P0245,STU-245,,15/02/1985,40,positive,999999,Poor quality,3.0,Saliva
+P0848,STU-848,Alice,1990-01-01,,positive,1000,,two,Saliva
+P0983,STU-983,Jane,,,indeterminate,,,two,Blood
+P0829,STU-829,Bob,15/02/1985,30,negative,999999,,4,Saliva
+P0571,STU-571,,1995/03/10,30,indeterminate,,,,Saliva
+P0060,STU060,Alice,,thirty-five,0,,,1,Saliva
+P0291,STU-291,John,,30,,,,3.0,Urine
+P0071,STU-071,Alice,,thirty-five,1,999999,Poor quality,1,Blood
+P0345,STU-345,,1990-01-01,25,,1000,,4,Blood
+P0185,STU-185,,,25,0,,,3.0,Saliva
+P0142,STU-142,John,,,positive,,Poor quality,two,Blood
+P0391,STU-391,,1990-01-01,thirty-five,negative,,,3.0,Saliva
+P0492,STU-492,,,30,positive,,,five,Saliva
+P0827,STU-827,,"Feb 20, 1992",40,,999999,Poor quality,4,Urine
+P0102,STU-102,,,25,indeterminate,,,two,Blood
+P0750,STU750,,,30,,,,two,Urine
+P0552,STU-552,John,,25,negative,,Poor quality,4,Saliva
+P0307,STU-307,,1995/03/10,25,,,,1,Blood
+P0987,STU-987,Jane,,25,0,1000,,3.0,Blood
+P0322,STU-322,Jane,,30,negative,,,4,Saliva
+P0800,STU800,John,1995/03/10,30,positive,,,4,Saliva
+P0731,STU-731,,,,indeterminate,1000,Poor quality,two,Blood
+P0678,STU-678,,1988-12-25,,indeterminate,,,3.0,Urine
+P0654,STU-654,Jane,1990-01-01,thirty-five,negative,,,1,Blood
+P0077,STU-077,,1990-01-01,25,0,,Poor quality,two,Saliva
+P0193,STU-193,,,40,0,1000,,4,Blood
+P0087,STU-087,Alice,,thirty-five,positive,,,1,Saliva
+P0459,STU-459,,1988-12-25,,positive,999999,,4,Urine
+P0936,STU-936,,1988-12-25,30,positive,,Good sample,two,Blood
+P0919,STU-919,,"Feb 20, 1992",30,negative,999999,,3.0,Saliva
+P0935,STU-935,John,1990-01-01,40,indeterminate,1000,,,Urine
+P0310,STU310,John,,thirty-five,negative,,,4,Saliva
+P0744,STU-744,Jane,,30,,,,five,Saliva
+P0874,STU-874,,1988-12-25,30,,1000,,4,Blood
+P0399,STU-399,,1995/03/10,25,,999999,,,Urine
+P0617,STU-617,Alice,"Feb 20, 1992",thirty-five,indeterminate,,,4,Urine
+P0050,STU050,Bob,,30,0,999999,Good sample,1,Blood
+P0200,STU200,,"Feb 20, 1992",,1,,Good sample,,Saliva
+P0599,STU-599,,,,1,,Poor quality,two,Saliva
+P0970,STU970,,,,positive,,,4,Urine
+P0883,STU-883,Bob,15/02/1985,40,positive,,,1,Saliva
+P0429,STU-429,,1995/03/10,30,1,,,,Saliva
+P0498,STU-498,Alice,15/02/1985,40,positive,,Good sample,3.0,Blood
+P0604,STU-604,John,,,indeterminate,1000,,1,Saliva
+P0011,STU-011,,15/02/1985,,0,,,two,Blood
+P0889,STU-889,,,,0,1000,Poor quality,five,Blood
+P0671,STU-671,Bob,15/02/1985,,indeterminate,,Good sample,two,Urine
+P0938,STU-938,John,,25,0,,Good sample,,Urine
+P0929,STU-929,,,30,1,,,five,Urine
+P0558,STU-558,,"Feb 20, 1992",,0,,,two,Urine
+P0637,STU-637,,1995/03/10,,,,,3.0,Urine
+P0834,STU-834,,15/02/1985,40,,,Good sample,two,Blood
+P0372,STU-372,,"Feb 20, 1992",40,0,,,4,Blood
+P0835,STU-835,John,,30,,1000,Poor quality,five,Blood
+P0583,STU-583,Jane,15/02/1985,thirty-five,,999999,,five,Blood
+P0334,STU-334,Alice,1995/03/10,30,positive,1000,,two,Urine
+P0946,STU-946,John,1988-12-25,25,,1000,Good sample,4,Blood
+P0211,STU-211,,1988-12-25,,negative,,,,Blood
+P0757,STU-757,Jane,1990-01-01,thirty-five,0,,,two,Blood
+P0458,STU-458,,1990-01-01,,0,,Poor quality,,Saliva
+P0089,STU-089,,15/02/1985,40,negative,1000,,two,Saliva
+P0880,STU880,,15/02/1985,30,positive,,,4,Blood
+P0351,STU-351,,1995/03/10,25,1,,,two,Saliva
+P0219,STU-219,John,1995/03/10,thirty-five,0,999999,Good sample,3.0,Blood
+P0414,STU-414,,"Feb 20, 1992",30,,,,1,Blood
+P0278,STU-278,Bob,,25,0,999999,,,Urine
+P0960,STU960,Alice,1995/03/10,,,999999,,3.0,Blood
+P0926,STU-926,Bob,"Feb 20, 1992",25,negative,,Poor quality,two,Saliva
+P0214,STU-214,,,thirty-five,1,,,4,Urine
+P0097,STU-097,Alice,,40,,,Good sample,two,Saliva
+P0079,STU-079,Alice,1990-01-01,25,positive,,,1,Urine
+P0704,STU-704,John,15/02/1985,,indeterminate,999999,,,Saliva
+P0137,STU-137,,1990-01-01,thirty-five,positive,999999,,two,Blood
+P0209,STU-209,Alice,15/02/1985,,0,,Good sample,five,Saliva
+P0523,STU-523,Jane,,30,1,,,two,Saliva
+P0838,STU-838,,"Feb 20, 1992",thirty-five,negative,,Poor quality,,Blood
+P0733,STU-733,Jane,1988-12-25,,1,,Good sample,1,Urine
+P0569,STU-569,John,,,0,,,1,Blood
+P0261,STU-261,Jane,15/02/1985,,,,Good sample,1,Blood
+P0468,STU-468,Jane,1990-01-01,25,positive,,,3.0,Urine
+P0040,STU040,,1988-12-25,30,0,,,two,Saliva
+P0031,STU-031,Alice,,,negative,,Poor quality,,Saliva
+P0698,STU-698,Alice,"Feb 20, 1992",thirty-five,negative,999999,Good sample,1,Saliva
+P0452,STU-452,Jane,,,negative,,,1,Urine
+P0055,STU-055,John,,thirty-five,positive,,,3.0,Blood
+P0024,STU-024,Alice,"Feb 20, 1992",40,,,,five,Blood
+P0708,STU-708,,1990-01-01,,,,Good sample,3.0,Saliva
+P0114,STU-114,Alice,"Feb 20, 1992",25,positive,,,3.0,Blood
+P0110,STU110,,15/02/1985,30,positive,,Poor quality,3.0,Saliva
+P0507,STU-507,,15/02/1985,thirty-five,1,,,4,Urine
+P0967,STU-967,Bob,,40,1,1000,,3.0,Saliva
+P0950,STU950,,"Feb 20, 1992",,positive,,Good sample,two,Saliva
+P0004,STU-004,,1990-01-01,25,positive,1000,,4,Urine
+P0276,STU-276,Alice,1990-01-01,,negative,,Good sample,1,Urine
+P0657,STU-657,,"Feb 20, 1992",30,positive,,,five,Blood
+P0785,STU-785,Jane,1995/03/10,,0,,Good sample,1,Blood
+P0855,STU-855,Alice,,25,indeterminate,999999,Poor quality,3.0,Urine
+P0760,STU760,,15/02/1985,25,indeterminate,1000,Good sample,3.0,Urine
+P0797,STU-797,Alice,,40,indeterminate,999999,,4,Blood
+P0984,STU-984,,1988-12-25,thirty-five,negative,,,1,Blood
+P0395,STU-395,,,30,indeterminate,,Good sample,4,Urine
+P0487,STU-487,Bob,1995/03/10,thirty-five,negative,,,five,Urine
+P0615,STU-615,Jane,1995/03/10,40,,,,4,Saliva
+P0878,STU-878,,1990-01-01,,,999999,,4,Saliva
+P0175,STU-175,,1995/03/10,40,negative,1000,,,Saliva
+P0918,STU-918,,1995/03/10,,1,,,1,Saliva
+P0059,STU-059,John,,25,1,,Good sample,3.0,Urine
+P0266,STU-266,John,15/02/1985,thirty-five,positive,,,3.0,Urine
+P0064,STU-064,John,,,negative,,,1,Blood
+P0790,STU790,,1995/03/10,,positive,999999,,1,Saliva
+P0262,STU-262,Alice,,thirty-five,1,999999,,five,Saliva
+P0101,STU-101,,,,0,,,five,Blood
+P0300,STU300,Alice,1990-01-01,,0,,Good sample,two,Saliva
+P0616,STU-616,Bob,,,0,,,,Blood
+P0179,STU-179,John,,25,1,,,,Saliva
+P0934,STU-934,Bob,1995/03/10,,negative,,Good sample,1,Urine
+P0779,STU-779,,15/02/1985,,indeterminate,,,five,Blood
+P0140,STU140,Alice,,thirty-five,negative,,,4,Blood
+P0804,STU-804,,,,1,,Poor quality,1,Blood
+P0169,STU-169,John,,,positive,999999,Good sample,,Saliva
+P0067,STU-067,Jane,15/02/1985,40,negative,,Good sample,five,Urine
+P0257,STU-257,John,1990-01-01,,,,,two,Saliva
+P0068,STU-068,Alice,,,indeterminate,,,five,Blood
+P0909,STU-909,John,,40,1,,,3.0,Urine
+P0013,STU-013,Bob,1988-12-25,,1,,Poor quality,five,Blood
+P0532,STU-532,Jane,"Feb 20, 1992",,negative,,Good sample,4,Urine
+P0320,STU320,,,25,1,,,five,Blood
+P0985,STU-985,Jane,,30,1,,,two,Urine
+P0867,STU-867,,,25,1,,Good sample,five,Blood
+P0577,STU-577,,,30,positive,999999,Poor quality,3.0,Urine
+P0335,STU-335,,"Feb 20, 1992",,indeterminate,,,1,Blood
+P0287,STU-287,,,,0,,Good sample,two,Blood
+P0912,STU-912,Jane,"Feb 20, 1992",25,positive,1000,Poor quality,five,Urine
+P0324,STU-324,,1990-01-01,25,0,,,3.0,Urine
+P0891,STU-891,Bob,15/02/1985,thirty-five,,,,five,Saliva
+P0537,STU-537,,,25,positive,1000,Good sample,five,Blood
+P0693,STU-693,,1995/03/10,,positive,1000,Good sample,1,Urine
+P0650,STU650,Bob,15/02/1985,30,1,1000,,,Urine
+P0529,STU-529,,1990-01-01,25,1,1000,Good sample,five,Saliva
+P0514,STU-514,,1995/03/10,40,1,,,five,Urine
+P0586,STU-586,Alice,"Feb 20, 1992",40,,999999,Good sample,,Blood
+P0003,STU-003,,"Feb 20, 1992",,1,,Poor quality,3.0,Blood
+P0446,STU-446,,"Feb 20, 1992",30,negative,,Poor quality,five,Blood
+P0238,STU-238,Alice,1988-12-25,thirty-five,indeterminate,1000,Poor quality,4,Urine
+P0496,STU-496,,1990-01-01,25,negative,1000,,two,Urine
+P0782,STU-782,,"Feb 20, 1992",25,negative,1000,,1,Saliva
+P0328,STU-328,Alice,15/02/1985,25,1,,Good sample,two,Saliva
+P0548,STU-548,,,30,0,,,,Blood
+P0859,STU-859,Alice,1995/03/10,,0,,,five,Saliva
+P0530,STU530,Bob,,thirty-five,negative,,Poor quality,3.0,Saliva
+P0347,STU-347,Alice,,,1,,,3.0,Urine
+P0723,STU-723,,,40,,,Poor quality,4,Urine
+P0584,STU-584,,,25,,,,4,Saliva
+P0594,STU-594,,"Feb 20, 1992",30,0,,Poor quality,five,Saliva
+P0588,STU-588,,1988-12-25,25,positive,999999,,1,Saliva
+P0309,STU-309,John,1990-01-01,,,,,two,Saliva
+P0795,STU-795,Jane,,,positive,,,1,Saliva
+P0994,STU-994,Alice,15/02/1985,thirty-five,1,,Poor quality,two,Urine
+P0232,STU-232,John,,,0,,,3.0,Urine
+P0630,STU630,Alice,1995/03/10,,indeterminate,,Good sample,,Urine
+P0602,STU-602,Bob,1990-01-01,25,negative,,,two,Urine
+P0663,STU-663,,1988-12-25,25,,,Good sample,five,Saliva
+P0370,STU370,Alice,,thirty-five,positive,1000,,4,Blood
+P0916,STU-916,John,,,0,1000,,1,Saliva
+P0315,STU-315,Alice,,,positive,,,five,Saliva
+P0107,STU-107,,1995/03/10,thirty-five,0,,Good sample,1,Saliva
+P0824,STU-824,,1990-01-01,30,1,,Poor quality,3.0,Blood
+P0056,STU-056,,15/02/1985,30,1,,,3.0,Saliva
+P0121,STU-121,John,,25,indeterminate,,,1,Blood
+P0371,STU-371,John,,25,indeterminate,,,,Blood
+P0026,STU-026,John,"Feb 20, 1992",40,0,999999,,five,Urine
+P0073,STU-073,Alice,,thirty-five,,,Good sample,five,Urine
+P0360,STU360,Jane,"Feb 20, 1992",40,negative,,,five,Blood
+P0045,STU-045,Bob,"Feb 20, 1992",,negative,,,,Saliva
+P0297,STU-297,Alice,1988-12-25,,1,999999,,five,Blood
+P0329,STU-329,Alice,1995/03/10,,,,,1,Blood
+P0248,STU-248,Alice,,,,999999,,3.0,Urine
+P0337,STU-337,Bob,,,indeterminate,999999,Poor quality,1,Urine
+P0352,STU-352,Alice,1995/03/10,,indeterminate,,Poor quality,,Blood
+P0362,STU-362,Jane,15/02/1985,thirty-five,0,,Poor quality,,Saliva
+P0777,STU-777,,1988-12-25,,,,,1,Urine
+P0961,STU-961,John,"Feb 20, 1992",30,indeterminate,,,five,Saliva
+P0421,STU-421,John,,,,,,five,Blood
+P0382,STU-382,,1990-01-01,,0,1000,,two,Blood
+P0695,STU-695,Bob,15/02/1985,,indeterminate,,,,Blood
+P0540,STU540,,1990-01-01,40,indeterminate,,,3.0,Saliva
+P0450,STU450,Jane,1995/03/10,30,positive,,,five,Saliva
+P0623,STU-623,,,thirty-five,,,,five,Blood
+P0210,STU210,,1988-12-25,30,negative,999999,,five,Urine
+P0555,STU-555,John,,40,positive,,Poor quality,3.0,Urine
+P0518,STU-518,,"Feb 20, 1992",thirty-five,1,1000,,five,Urine
+P0482,STU-482,Jane,1990-01-01,40,indeterminate,,,3.0,Blood
+P0433,STU-433,John,,30,negative,999999,,two,Saliva
+P0627,STU-627,John,1990-01-01,,1,999999,,five,Saliva
+P0061,STU-061,,,thirty-five,negative,999999,,4,Urine
+P0622,STU-622,Bob,1990-01-01,25,1,,,3.0,Urine
+P0756,STU-756,Bob,,30,indeterminate,,,3.0,Urine
+P0093,STU-093,Alice,1990-01-01,30,1,999999,,4,Blood
+P0902,STU-902,,"Feb 20, 1992",,0,1000,Poor quality,,Urine
+P0463,STU-463,Bob,,,0,,,1,Blood
+P0667,STU-667,,,,1,,Good sample,,Blood
+P0977,STU-977,Jane,,thirty-five,positive,,,1,Blood
+P0478,STU-478,Bob,1988-12-25,thirty-five,0,,,3.0,Blood
+P0333,STU-333,,,40,1,999999,,4,Blood
+P0939,STU-939,,1990-01-01,30,positive,,Poor quality,1,Blood
+P0701,STU-701,John,1995/03/10,thirty-five,,1000,Poor quality,,Urine
+P0465,STU-465,John,,40,positive,1000,Good sample,4,Saliva
+P0356,STU-356,John,,40,positive,,,4,Saliva
+P0363,STU-363,Jane,1995/03/10,thirty-five,indeterminate,1000,Poor quality,two,Saliva
+P0313,STU-313,John,,40,1,,Good sample,,Urine
+P0319,STU-319,,"Feb 20, 1992",40,0,,Poor quality,,Urine
+P0381,STU-381,Bob,,25,0,,,4,Blood
+P0183,STU-183,,,30,,,,five,Blood
+P0717,STU-717,John,"Feb 20, 1992",25,indeterminate,1000,Good sample,3.0,Urine
+P0111,STU-111,Jane,,thirty-five,0,,,4,Urine
+P0531,STU-531,Alice,,,positive,,,,Blood
+P0378,STU-378,John,,40,,,,1,Urine
+P0714,STU-714,,1990-01-01,40,indeterminate,,Good sample,two,Blood
+P0873,STU-873,Alice,1990-01-01,,positive,,Good sample,4,Urine
+P0940,STU940,John,,25,negative,,Poor quality,4,Blood
+P0732,STU-732,,15/02/1985,,positive,999999,Poor quality,1,Urine
+P0293,STU-293,Bob,1995/03/10,,1,1000,,3.0,Blood
+P0437,STU-437,Jane,,30,1,,,3.0,Saliva
+P0836,STU-836,John,1988-12-25,,,,,five,Saliva
+P0308,STU-308,Alice,"Feb 20, 1992",thirty-five,negative,999999,Good sample,,Saliva
+P0290,STU290,John,15/02/1985,,negative,,,,Urine
+P0969,STU-969,John,,,indeterminate,999999,,1,Blood
+P0216,STU-216,John,,25,negative,,Good sample,4,Blood
+P0631,STU-631,,15/02/1985,25,negative,999999,Poor quality,3.0,Urine
+P0281,STU-281,,,40,negative,,,two,Saliva
+P0674,STU-674,John,"Feb 20, 1992",40,positive,999999,,five,Blood
+P0451,STU-451,Jane,1988-12-25,40,0,999999,,3.0,Urine
+P0299,STU-299,Bob,"Feb 20, 1992",,1,,,1,Saliva
+P0786,STU-786,Bob,1988-12-25,30,1,,,five,Blood
+P0138,STU-138,Jane,1990-01-01,30,positive,,,five,Urine
+P0306,STU-306,Alice,,,1,,,4,Urine
+P0808,STU-808,,1988-12-25,25,negative,,Poor quality,five,Blood
+P0295,STU-295,,1990-01-01,,positive,999999,,3.0,Saliva
+P0600,STU600,Jane,15/02/1985,25,1,,,five,Saliva
+P0582,STU-582,Jane,1990-01-01,40,1,,,five,Blood
+P0030,STU030,,,thirty-five,,999999,,,Blood
+P0166,STU-166,,15/02/1985,30,positive,999999,,4,Urine
+P0249,STU-249,Alice,,thirty-five,indeterminate,999999,,1,Saliva
+P0311,STU-311,,,25,indeterminate,999999,,two,Saliva
+P0686,STU-686,John,,40,0,999999,,1,Blood
+P0844,STU-844,Bob,,30,indeterminate,,,two,Saliva
+P0343,STU-343,Bob,1990-01-01,30,positive,,,3.0,Saliva
+P0606,STU-606,,1995/03/10,,positive,,,two,Saliva
+P0527,STU-527,Bob,1995/03/10,30,positive,,,3.0,Blood
+P0066,STU-066,,1988-12-25,25,1,,Good sample,,Blood
+P0632,STU-632,,"Feb 20, 1992",40,1,,Good sample,,Blood
+P0892,STU-892,,,25,indeterminate,,,4,Saliva
+P0255,STU-255,,"Feb 20, 1992",thirty-five,1,,Good sample,3.0,Blood
+P0719,STU-719,Bob,1988-12-25,,positive,,Poor quality,3.0,Saliva
+P0771,STU-771,John,1988-12-25,,,1000,,3.0,Blood
+P0222,STU-222,Bob,,,0,,Good sample,4,Urine
+P0236,STU-236,Bob,1988-12-25,40,1,,Good sample,4,Saliva
+P0430,STU430,,,,indeterminate,,,five,Blood
+P0544,STU-544,John,1988-12-25,30,indeterminate,1000,,,Saliva
+P0441,STU-441,Bob,1990-01-01,,,,Poor quality,4,Urine
+P0589,STU-589,,1990-01-01,thirty-five,1,999999,,3.0,Saliva
+P0973,STU-973,,1990-01-01,,0,999999,,3.0,Urine
+P0250,STU250,,,25,indeterminate,,,,Saliva
+P0579,STU-579,Alice,15/02/1985,25,1,,Good sample,4,Saliva
+P0410,STU410,Alice,,40,0,,Poor quality,4,Urine
+P0072,STU-072,,15/02/1985,25,0,,,4,Blood
+P0095,STU-095,Jane,,,negative,,Good sample,1,Saliva
+P0034,STU-034,Bob,"Feb 20, 1992",thirty-five,0,,,3.0,Urine
+P0645,STU-645,Jane,,30,negative,,Good sample,,Urine
+P0260,STU260,Jane,1995/03/10,,negative,,Poor quality,4,Urine
+P0205,STU-205,Alice,1988-12-25,thirty-five,positive,999999,Good sample,3.0,Urine
+P0799,STU-799,,,,negative,1000,Poor quality,1,Saliva
+P0621,STU-621,Bob,,,positive,,Poor quality,4,Saliva
+P0366,STU-366,,,,,,Poor quality,two,Saliva
+P0078,STU-078,John,,thirty-five,positive,,Poor quality,3.0,Blood
+P0085,STU-085,,,,1,,Good sample,1,Urine
+P0995,STU-995,John,1988-12-25,25,negative,999999,Good sample,3.0,Saliva
+P0083,STU-083,,,25,positive,,,1,Saliva
+P0526,STU-526,,,40,0,,Good sample,3.0,Blood
+P0440,STU440,Jane,15/02/1985,30,indeterminate,,,4,Saliva
+P0568,STU-568,,,,indeterminate,,,two,Urine
+P0561,STU-561,,"Feb 20, 1992",30,negative,,,five,Blood
+P0543,STU-543,,1990-01-01,,positive,,,five,Blood
+P0888,STU-888,Jane,15/02/1985,25,positive,1000,,3.0,Blood
+P0332,STU-332,John,1995/03/10,,negative,999999,,1,Saliva
+P0006,STU-006,,,25,1,,Good sample,4,Saliva
+P0480,STU480,,,,1,1000,Poor quality,3.0,Blood
+P0105,STU-105,,,,positive,999999,,two,Blood
+P0098,STU-098,,,,positive,,Good sample,,Saliva
+P0833,STU-833,Jane,"Feb 20, 1992",30,positive,999999,,3.0,Blood
+P0788,STU-788,,"Feb 20, 1992",30,indeterminate,999999,,,Saliva
+P0425,STU-425,Bob,15/02/1985,25,,,,4,Blood
+P0282,STU-282,,"Feb 20, 1992",40,,,Poor quality,4,Saliva
+P0267,STU-267,John,,,negative,,Good sample,,Urine
+P0535,STU-535,,1988-12-25,,indeterminate,999999,,two,Urine
+P0454,STU-454,John,,40,negative,999999,,,Saliva
+P0491,STU-491,,1990-01-01,,negative,,,,Urine
+P0992,STU-992,,1995/03/10,,,,Good sample,1,Blood
+P0817,STU-817,Alice,15/02/1985,30,0,,Poor quality,4,Saliva
+P0119,STU-119,,,thirty-five,,,Poor quality,five,Urine
+P0635,STU-635,,,thirty-five,0,,Poor quality,two,Blood
+P0251,STU-251,,"Feb 20, 1992",25,negative,,,,Blood
+P0406,STU-406,Bob,,,positive,,Poor quality,two,Blood
+P0718,STU-718,Alice,,30,1,,Poor quality,two,Saliva
+P0705,STU-705,,"Feb 20, 1992",30,indeterminate,1000,,4,Urine
+P0010,STU010,Bob,1990-01-01,30,1,,,,Saliva
+P0860,STU860,Jane,"Feb 20, 1992",,0,,,five,Blood
+P0197,STU-197,Alice,,40,,999999,,two,Urine
+P0653,STU-653,Alice,,25,indeterminate,,Good sample,two,Saliva
+P0082,STU-082,Jane,1995/03/10,30,positive,1000,,five,Blood
+P0448,STU-448,,1988-12-25,25,1,,,3.0,Blood
+P0534,STU-534,Jane,15/02/1985,thirty-five,,,Good sample,4,Blood
+P0669,STU-669,Bob,1988-12-25,40,negative,,,1,Blood
+P0240,STU240,Bob,1988-12-25,,1,,Poor quality,,Urine
+P0412,STU-412,,"Feb 20, 1992",,1,1000,Good sample,five,Saliva
+P0212,STU-212,Bob,"Feb 20, 1992",40,0,,Good sample,4,Blood
+P0774,STU-774,Alice,1990-01-01,thirty-five,0,,Good sample,,Saliva
+P0546,STU-546,Jane,,thirty-five,indeterminate,,,,Blood
+P0520,STU520,,,40,0,,,4,Saliva
+P0228,STU-228,Bob,15/02/1985,25,0,,,two,Urine
+P0923,STU-923,,15/02/1985,thirty-five,,,,3.0,Urine
+P0405,STU-405,Alice,,thirty-five,1,,Poor quality,4,Saliva
+P0890,STU890,Jane,,30,indeterminate,,,,Urine
+P0178,STU-178,,,thirty-five,,1000,Poor quality,,Saliva
+P0908,STU-908,Bob,1988-12-25,,negative,,,five,Saliva
+P0466,STU-466,,,,0,,,3.0,Blood
+P0431,STU-431,,,30,1,,,1,Blood
+P0533,STU-533,,,,positive,,,1,Saliva
+P0696,STU-696,Bob,,40,1,,,4,Urine
+P0479,STU-479,,,,negative,,,five,Saliva
+P0689,STU-689,John,1988-12-25,,1,,Poor quality,4,Urine
+P0008,STU-008,,15/02/1985,40,0,1000,Good sample,two,Urine
+P0156,STU-156,Bob,1988-12-25,25,1,,,,Blood
+P0358,STU-358,John,"Feb 20, 1992",40,0,1000,,,Blood
+P0585,STU-585,,,,,999999,Good sample,,Urine
+P0224,STU-224,John,15/02/1985,,positive,,,4,Urine
+P0330,STU330,John,1995/03/10,,positive,,Poor quality,two,Saliva
+P0634,STU-634,,1995/03/10,,positive,,,4,Blood
+P0823,STU-823,,1990-01-01,,,,Poor quality,3.0,Urine
+P0869,STU-869,John,,,positive,999999,Good sample,3.0,Blood
+P0612,STU-612,Bob,1990-01-01,,negative,999999,Good sample,4,Urine
+P0854,STU-854,Jane,1990-01-01,40,,,,3.0,Saliva
+P0747,STU-747,John,,thirty-five,0,,Poor quality,two,Saliva
+P0727,STU-727,,"Feb 20, 1992",40,,1000,Good sample,five,Urine
+P0810,STU810,John,1990-01-01,thirty-five,0,,,3.0,Urine
+P0495,STU-495,Jane,1988-12-25,25,0,1000,Poor quality,4,Urine
+P0573,STU-573,,15/02/1985,30,indeterminate,,,1,Saliva
+P0629,STU-629,Bob,,25,positive,,Good sample,1,Blood
+P0763,STU-763,Bob,15/02/1985,25,positive,,,five,Saliva
+P0959,STU-959,Jane,1995/03/10,30,0,,,,Saliva
+P0164,STU-164,,1988-12-25,30,indeterminate,,,,Blood
+P0229,STU-229,,"Feb 20, 1992",,,1000,Good sample,,Urine
+P0524,STU-524,Alice,1988-12-25,25,,,,4,Blood
+P0787,STU-787,,1990-01-01,thirty-five,0,,,1,Blood
+P0213,STU-213,Jane,1988-12-25,25,0,999999,,five,Urine
+P0826,STU-826,Alice,,,indeterminate,1000,,4,Saliva
+P0080,STU080,Jane,,30,positive,999999,Poor quality,4,Blood
+P0149,STU-149,,1988-12-25,40,positive,,,two,Blood
+P0303,STU-303,Bob,,25,0,,Good sample,five,Urine
+P0449,STU-449,Bob,1988-12-25,thirty-five,,,Good sample,4,Urine
+P0502,STU-502,,1988-12-25,25,indeterminate,,Poor quality,4,Urine
+P0549,STU-549,Jane,,25,indeterminate,,Poor quality,five,Saliva
+P0842,STU-842,,1988-12-25,,,1000,Poor quality,five,Blood
+P0044,STU-044,,1995/03/10,,negative,,Poor quality,4,Saliva
+P0494,STU-494,Jane,15/02/1985,,0,,Poor quality,3.0,Blood
+P0134,STU-134,Bob,1988-12-25,,,1000,,3.0,Saliva
+P0595,STU-595,,1995/03/10,,0,999999,Poor quality,4,Urine
+P0312,STU-312,Jane,1988-12-25,25,1,999999,Poor quality,1,Blood
+P0508,STU-508,Alice,,,indeterminate,1000,,five,Saliva
+P0656,STU-656,Jane,,30,indeterminate,999999,,five,Blood
+P0517,STU-517,,1988-12-25,40,,,,3.0,Blood
+P0850,STU850,,1990-01-01,30,0,,,,Saliva
+P0812,STU-812,John,"Feb 20, 1992",25,0,,Good sample,two,Blood
+P0001,STU-001,,,25,,,,five,Blood
+P0783,STU-783,Bob,1995/03/10,30,0,1000,,five,Blood
+P0383,STU-383,,,thirty-five,0,999999,Poor quality,five,Blood
+P0317,STU-317,John,,,indeterminate,,,,Urine
+P0762,STU-762,,1990-01-01,,,999999,Good sample,4,Saliva
+P0592,STU-592,Jane,,,positive,,Poor quality,3.0,Blood
+P0409,STU-409,Alice,1988-12-25,25,1,,Poor quality,3.0,Saliva
+P0942,STU-942,,1990-01-01,,indeterminate,,Good sample,five,Blood
+P0023,STU-023,Jane,"Feb 20, 1992",40,1,,,3.0,Urine
+P0751,STU-751,,,thirty-five,positive,,Good sample,3.0,Saliva
+P0173,STU-173,Jane,15/02/1985,40,negative,,Good sample,five,Blood
+P0126,STU-126,Alice,,,indeterminate,999999,Poor quality,two,Urine
+P0697,STU-697,John,1995/03/10,,0,,,,Saliva
+P0500,STU500,,"Feb 20, 1992",40,negative,999999,,3.0,Urine
+P0597,STU-597,Jane,15/02/1985,30,0,999999,,five,Blood
+P0972,STU-972,,1988-12-25,30,negative,,Poor quality,,Blood
+P0091,STU-091,Jane,1990-01-01,thirty-five,1,,,,Saliva
+P0182,STU-182,Alice,,25,indeterminate,,,4,Saliva
+P0364,STU-364,,1988-12-25,40,positive,,,five,Urine
+P0275,STU-275,,1990-01-01,25,0,,Poor quality,4,Urine
+P0753,STU-753,Jane,1995/03/10,40,1,,,,Blood
+P0963,STU-963,Alice,,25,negative,,Good sample,3.0,Urine
+P0070,STU070,,1990-01-01,30,0,,Good sample,five,Saliva
+P0292,STU-292,Alice,,thirty-five,,,,4,Saliva
+P0132,STU-132,Bob,,,,,Good sample,3.0,Saliva
+P0301,STU-301,Bob,1995/03/10,thirty-five,,999999,Good sample,4,Saliva
+P0713,STU-713,,,thirty-five,indeterminate,,,,Saliva
+P0327,STU-327,John,1990-01-01,25,0,1000,Good sample,two,Saliva
+P0145,STU-145,John,1990-01-01,30,1,,Poor quality,,Blood
+P0499,STU-499,Jane,1990-01-01,thirty-five,negative,1000,,two,Blood
+P0964,STU-964,,,40,positive,1000,Good sample,,Urine
+P0887,STU-887,Jane,,30,indeterminate,,,two,Saliva
+P0136,STU-136,Jane,,25,positive,,Good sample,3.0,Saliva
+P0997,STU-997,John,,,indeterminate,,,two,Urine
+P0165,STU-165,,"Feb 20, 1992",25,negative,,,two,Blood
+P0029,STU-029,,1990-01-01,,0,1000,,,Saliva
+P0680,STU680,John,,,negative,,,two,Saliva
+P0194,STU-194,Bob,,40,0,1000,Poor quality,1,Urine
+P0903,STU-903,Jane,,thirty-five,0,999999,,two,Saliva
+P0814,STU-814,,"Feb 20, 1992",,,1000,,,Saliva
+P0434,STU-434,Bob,"Feb 20, 1992",30,indeterminate,999999,Good sample,,Saliva
+P0988,STU-988,,1990-01-01,30,positive,1000,Poor quality,3.0,Urine
+P0170,STU170,,1988-12-25,,indeterminate,,,4,Urine
+P0542,STU-542,Alice,1990-01-01,40,1,1000,Good sample,,Blood
+P0141,STU-141,,15/02/1985,,indeterminate,,Good sample,3.0,Urine
+P0174,STU-174,Alice,"Feb 20, 1992",40,positive,,,two,Saliva
+P0007,STU-007,,1988-12-25,40,positive,,,,Urine
+P0821,STU-821,,1990-01-01,thirty-five,1,,,1,Urine
+P0536,STU-536,Jane,15/02/1985,25,1,1000,Poor quality,five,Urine
+P0962,STU-962,,"Feb 20, 1992",40,,999999,Poor quality,two,Blood
+P0856,STU-856,Alice,1988-12-25,40,0,1000,Poor quality,,Saliva
+P0074,STU-074,,"Feb 20, 1992",thirty-five,negative,,,3.0,Urine
+P0738,STU-738,Bob,,30,indeterminate,,,4,Blood
+P0528,STU-528,John,1990-01-01,,negative,,Good sample,4,Blood
+P0239,STU-239,,1990-01-01,25,positive,1000,,two,Saliva
+P0146,STU-146,,,,,999999,,4,Urine
+P0853,STU-853,,,25,indeterminate,,,3.0,Urine
+P0235,STU-235,John,,thirty-five,positive,,Good sample,two,Blood
+P0221,STU-221,John,"Feb 20, 1992",30,indeterminate,999999,,five,Blood
+P0215,STU-215,Alice,,,indeterminate,,,4,Urine
+P0712,STU-712,,1990-01-01,,,,Good sample,five,Saliva
+P0133,STU-133,John,,thirty-five,negative,,,two,Urine
+P0815,STU-815,,15/02/1985,25,1,,,3.0,Saliva
+P0907,STU-907,Bob,,40,0,,,1,Urine
+P0423,STU-423,,"Feb 20, 1992",40,positive,1000,,,Urine
+P0186,STU-186,,,,indeterminate,,,,Urine
+P0042,STU-042,,1990-01-01,,0,999999,,five,Urine
+P0768,STU-768,John,,,negative,,Good sample,two,Saliva
+P0109,STU-109,,,thirty-five,indeterminate,,,five,Urine
+P0636,STU-636,Jane,1995/03/10,40,negative,,Good sample,4,Blood
+P0057,STU-057,Jane,1988-12-25,30,indeterminate,999999,,two,Urine
+P0483,STU-483,Jane,,40,positive,,,,Urine
+P0754,STU-754,John,15/02/1985,30,positive,,Good sample,3.0,Blood
+P0794,STU-794,,,40,0,1000,,1,Blood
+P0469,STU-469,,,40,negative,,,4,Urine
+P0927,STU-927,,1995/03/10,,0,,Good sample,4,Saliva
+P0436,STU-436,John,15/02/1985,,0,,,4,Saliva
+P0025,STU-025,,1995/03/10,thirty-five,,,Good sample,two,Saliva
+P0550,STU550,,1995/03/10,30,indeterminate,,,five,Blood
+P0519,STU-519,Bob,"Feb 20, 1992",,,,Poor quality,five,Urine
+P0668,STU-668,John,,40,0,,,,Saliva
+P0349,STU-349,John,,thirty-five,,,,1,Saliva
+P0998,STU-998,,,25,1,,,4,Blood
+P0339,STU-339,John,,,positive,,,4,Saliva
+P0052,STU-052,Bob,"Feb 20, 1992",,1,,,two,Urine
+P0384,STU-384,,1988-12-25,30,1,1000,,3.0,Urine
+P0862,STU-862,Alice,,thirty-five,positive,1000,Good sample,4,Saliva
+P0990,STU990,Bob,,thirty-five,,999999,,five,Urine
+P0683,STU-683,,,40,0,,,five,Blood
+P0996,STU-996,,15/02/1985,thirty-five,indeterminate,,,1,Blood
+P0265,STU-265,,1988-12-25,40,,,,1,Urine
+P0709,STU-709,Alice,1995/03/10,40,,,,3.0,Urine
+P0766,STU-766,,,30,1,,,3.0,Urine
+P0737,STU-737,,1990-01-01,25,positive,,Poor quality,4,Saliva
+P0445,STU-445,,1988-12-25,,0,999999,,,Blood
+P0396,STU-396,,,thirty-five,positive,1000,,1,Urine
+P0559,STU-559,,"Feb 20, 1992",,positive,999999,,3.0,Saliva
+P0177,STU-177,,,40,1,,Good sample,4,Urine
+P0019,STU-019,Jane,,,,,Poor quality,3.0,Urine
+P0980,STU980,,,40,1,,,4,Urine
+P0539,STU-539,,,,1,,Poor quality,3.0,Urine
+P0614,STU-614,Alice,"Feb 20, 1992",,,,,1,Urine
+P0591,STU-591,,,,,999999,Poor quality,two,Saliva
+P0368,STU-368,Alice,1990-01-01,,0,,Good sample,five,Urine
+P0084,STU-084,,"Feb 20, 1992",25,negative,999999,,two,Blood
+P0062,STU-062,Jane,,,,,Good sample,4,Saliva
+P0515,STU-515,,"Feb 20, 1992",40,negative,,Good sample,two,Urine
+P0273,STU-273,Jane,,40,,,,1,Urine
+P0286,STU-286,,,40,,999999,Good sample,3.0,Blood
+P0361,STU-361,,1995/03/10,,indeterminate,,Good sample,five,Saliva
+P0355,STU-355,,"Feb 20, 1992",30,0,,,4,Urine
+P0952,STU-952,Jane,15/02/1985,thirty-five,1,,,1,Saliva
+P0279,STU-279,Bob,1995/03/10,,1,,Poor quality,two,Saliva
+P0369,STU-369,John,1988-12-25,30,,,,five,Blood
+P0665,STU-665,Alice,15/02/1985,,indeterminate,,,two,Saliva
+P0619,STU-619,John,,30,1,999999,,4,Saliva
+P0590,STU590,,1995/03/10,,indeterminate,,,five,Saliva
+P0658,STU-658,Bob,1995/03/10,,,999999,Good sample,five,Urine
+P0104,STU-104,John,1988-12-25,,1,,,five,Blood
+P0457,STU-457,,15/02/1985,30,negative,1000,,two,Saliva
+P0394,STU-394,Jane,,,negative,999999,,five,Blood
+P0685,STU-685,Bob,15/02/1985,thirty-five,positive,1000,Poor quality,two,Blood
+P0724,STU-724,John,15/02/1985,,,,,1,Saliva
+P0376,STU-376,Bob,1990-01-01,30,negative,,Good sample,4,Saliva
+P0413,STU-413,,,,negative,999999,,3.0,Blood
+P0075,STU-075,,1990-01-01,40,0,1000,Poor quality,,Saliva
+P0948,STU-948,Jane,15/02/1985,,indeterminate,999999,,two,Blood
+P0501,STU-501,,,25,negative,,,,Saliva
+P0605,STU-605,,1988-12-25,25,0,1000,Good sample,two,Saliva
+P0115,STU-115,Alice,,,0,,Poor quality,3.0,Saliva
+P0418,STU-418,John,15/02/1985,40,1,,,4,Saliva
+P0090,STU090,,1988-12-25,,negative,,Good sample,3.0,Blood
+P0991,STU-991,Bob,,30,negative,,,3.0,Urine
+P0933,STU-933,Jane,,30,1,999999,,,Saliva
+P0875,STU-875,Alice,,25,negative,,,3.0,Urine
+P0661,STU-661,John,1988-12-25,,1,,,4,Blood
+P0012,STU-012,Bob,1990-01-01,,1,,Poor quality,3.0,Blood
+P0397,STU-397,John,1988-12-25,,positive,,,,Saliva
+P0576,STU-576,,"Feb 20, 1992",,1,,,five,Urine
+P0043,STU-043,,"Feb 20, 1992",,0,,,4,Urine
+P0168,STU-168,Bob,,40,positive,,,five,Urine
+P0417,STU-417,Alice,1988-12-25,,indeterminate,1000,,1,Saliva
+P0968,STU-968,John,1990-01-01,40,indeterminate,,Poor quality,two,Saliva
+P0427,STU-427,John,,25,positive,,,,Urine
+P0545,STU-545,Jane,,thirty-five,negative,,,1,Saliva
+P0949,STU-949,Alice,,,,,Good sample,1,Urine
+P0905,STU-905,John,15/02/1985,thirty-five,0,,,1,Saliva
+P0662,STU-662,,,30,indeterminate,,,4,Blood
+P0258,STU-258,Bob,,25,negative,,,two,Saliva
+P0336,STU-336,,,30,1,1000,,two,Saliva
+P0016,STU-016,Bob,,,negative,,Poor quality,,Saliva
+P0679,STU-679,Alice,,thirty-five,1,,,,Blood
+P0325,STU-325,Alice,,30,1,1000,,3.0,Saliva
+P0818,STU-818,,15/02/1985,40,indeterminate,,,two,Urine
+P0223,STU-223,,1990-01-01,40,0,,Good sample,1,Blood
+P0180,STU180,Alice,1990-01-01,40,0,,,,Blood
+P0100,STU100,,1995/03/10,,1,,Poor quality,two,Saliva
+P0522,STU-522,,1990-01-01,,1,,,1,Saliva
+P0357,STU-357,Bob,,30,1,,Poor quality,,Blood
+P0721,STU-721,Alice,15/02/1985,40,,,,3.0,Blood
+P0928,STU-928,,15/02/1985,thirty-five,indeterminate,1000,Poor quality,3.0,Saliva
+P0758,STU-758,Jane,,40,indeterminate,,,4,Urine
+P0341,STU-341,Bob,,30,,,,two,Blood
+P0432,STU-432,,15/02/1985,40,negative,,Good sample,five,Saliva
+P0596,STU-596,Alice,15/02/1985,40,,,,two,Saliva
+P0899,STU-899,,1995/03/10,30,indeterminate,,,five,Saliva
+P0204,STU-204,,,thirty-five,indeterminate,,Poor quality,,Blood
+P0761,STU-761,,,30,,,,five,Urine
+P0094,STU-094,Jane,"Feb 20, 1992",30,indeterminate,,,five,Urine
+P0603,STU-603,Jane,,25,indeterminate,,,1,Urine
+P0069,STU-069,Alice,15/02/1985,,positive,,,3.0,Urine
+P0954,STU-954,Jane,"Feb 20, 1992",25,1,1000,,3.0,Saliva
+P0285,STU-285,Jane,1990-01-01,25,0,1000,Good sample,two,Saliva
+P0866,STU-866,Bob,,40,indeterminate,1000,,3.0,Urine
+P0435,STU-435,Jane,1988-12-25,40,positive,1000,,,Urine
+P0154,STU-154,Bob,15/02/1985,25,0,1000,,4,Saliva
+P0076,STU-076,Bob,15/02/1985,,negative,1000,Good sample,3.0,Blood
+P0789,STU-789,Bob,,,1,,Good sample,4,Saliva
+P0581,STU-581,Alice,1988-12-25,25,0,,,3.0,Urine
+P0447,STU-447,Jane,1988-12-25,,negative,,Poor quality,two,Urine
+P0189,STU-189,Bob,1988-12-25,30,positive,1000,Good sample,,Blood
+P0272,STU-272,Alice,,thirty-five,indeterminate,,,1,Saliva
+P0237,STU-237,Jane,"Feb 20, 1992",,0,,,,Urine
+P0488,STU-488,John,,,,,Good sample,4,Saliva
+P0560,STU560,,1995/03/10,40,,999999,,4,Blood
+P0118,STU-118,,,25,negative,,Poor quality,,Blood
+P0881,STU-881,,,,0,,Good sample,,Blood
+P0513,STU-513,Alice,1990-01-01,25,0,999999,Poor quality,3.0,Blood
+P0598,STU-598,Alice,"Feb 20, 1992",30,negative,999999,Poor quality,1,Saliva
+P0644,STU-644,,,,1,,,4,Urine
+P0127,STU-127,,"Feb 20, 1992",30,indeterminate,1000,Good sample,two,Urine
+P0117,STU-117,John,,40,0,,,,Blood
+P0474,STU-474,John,,25,,,,1,Urine
+P0506,STU-506,John,,25,,,,3.0,Saliva
+P0058,STU-058,Alice,15/02/1985,,0,,Poor quality,3.0,Urine
+P0729,STU-729,Jane,15/02/1985,30,indeterminate,,Good sample,4,Urine
+P0981,STU-981,,1990-01-01,thirty-five,0,999999,,five,Saliva
+P0269,STU-269,,15/02/1985,,positive,,,two,Urine
+P0047,STU-047,,,25,0,,Good sample,two,Blood
+P0350,STU350,Alice,,,,,,five,Urine
+P0196,STU-196,,1995/03/10,thirty-five,0,,,4,Urine
+P0103,STU-103,Alice,15/02/1985,30,0,1000,Good sample,1,Saliva
+P0900,STU900,John,1995/03/10,40,1,999999,,4,Urine
+P0746,STU-746,Alice,,30,0,,,,Blood
+P0894,STU-894,,,25,0,,Poor quality,five,Urine
+P0264,STU-264,,15/02/1985,30,,1000,Poor quality,3.0,Urine
+P0444,STU-444,,1995/03/10,thirty-five,1,999999,,3.0,Urine
+P0793,STU-793,Alice,15/02/1985,thirty-five,positive,,,five,Urine
+P0305,STU-305,Bob,1995/03/10,40,1,999999,,five,Saliva
+P0342,STU-342,Bob,1990-01-01,30,0,,,1,Saliva
+P0937,STU-937,,,30,negative,999999,Good sample,,Blood
+P0314,STU-314,Bob,"Feb 20, 1992",25,indeterminate,,,1,Urine
+P0150,STU150,Bob,15/02/1985,30,negative,,,3.0,Saliva
+P0125,STU-125,John,15/02/1985,25,1,,,1,Blood
+P0847,STU-847,Bob,"Feb 20, 1992",,negative,1000,Poor quality,,Blood
+P0886,STU-886,John,1990-01-01,,indeterminate,,,3.0,Saliva
+P0051,STU-051,,15/02/1985,25,0,999999,Poor quality,,Saliva
+P0354,STU-354,Bob,,25,negative,,Good sample,,Saliva
+P0999,STU-999,Alice,1990-01-01,40,1,999999,Poor quality,two,Saliva
+P0143,STU-143,Alice,1988-12-25,30,1,999999,,4,Saliva
+P0471,STU-471,Alice,,,1,1000,,4,Blood
+P0400,STU400,John,1988-12-25,thirty-five,positive,,Poor quality,five,Urine
+P0930,STU930,,,thirty-five,1,,Poor quality,3.0,Blood
+P0321,STU-321,,15/02/1985,30,,,Poor quality,1,Urine
+P0020,STU020,Alice,15/02/1985,,0,,,two,Saliva
+P0851,STU-851,Alice,15/02/1985,,0,1000,,two,Urine
+P0895,STU-895,John,,thirty-five,,1000,Poor quality,4,Saliva
+P0408,STU-408,John,1988-12-25,,positive,,,,Blood
+P0538,STU-538,,1990-01-01,thirty-five,negative,,,4,Urine
+P0694,STU-694,,1990-01-01,40,positive,,,five,Urine
+P0039,STU-039,Alice,1995/03/10,25,negative,,Good sample,five,Saliva
+P0176,STU-176,Bob,"Feb 20, 1992",30,,,,4,Saliva
+P0246,STU-246,John,,,negative,999999,Good sample,two,Urine
+P0893,STU-893,,,25,indeterminate,,,five,Urine
+P0722,STU-722,,,40,negative,,,two,Urine
+P0944,STU-944,Alice,,40,0,,,4,Blood
+P0925,STU-925,,,,1,,,two,Urine
+P0155,STU-155,John,,25,1,999999,,4,Blood
+P0639,STU-639,Jane,"Feb 20, 1992",25,1,1000,Poor quality,3.0,Blood
+P0288,STU-288,Bob,1988-12-25,,,,,3.0,Saliva
+P0626,STU-626,John,"Feb 20, 1992",25,indeterminate,,,1,Saliva
+P0742,STU-742,Alice,1988-12-25,25,indeterminate,,Good sample,two,Blood
+P0570,STU570,,1995/03/10,,indeterminate,,,five,Blood
+P0802,STU-802,John,15/02/1985,,1,,,five,Saliva
+P0018,STU-018,,,thirty-five,1,,Poor quality,4,Blood
+P0128,STU-128,Bob,"Feb 20, 1992",40,negative,,,five,Blood
+P0323,STU-323,Bob,1988-12-25,40,,1000,Good sample,two,Blood
+P0256,STU-256,John,"Feb 20, 1992",40,1,,Good sample,4,Urine
+P0791,STU-791,,"Feb 20, 1992",25,0,1000,,two,Blood
+P0346,STU-346,John,,thirty-five,1,,,five,Blood
+P0191,STU-191,Alice,"Feb 20, 1992",,positive,,,4,Blood
+P0116,STU-116,,"Feb 20, 1992",thirty-five,1,,Good sample,3.0,Saliva
+P0666,STU-666,Jane,1990-01-01,30,positive,,Good sample,two,Blood
+P0607,STU-607,Alice,15/02/1985,,indeterminate,,,1,Blood
+P0181,STU-181,,1990-01-01,,1,999999,Poor quality,3.0,Urine
+P0302,STU-302,Jane,1995/03/10,,indeterminate,,,five,Blood
+P0830,STU830,Bob,1990-01-01,thirty-five,negative,,,five,Urine
+P0901,STU-901,Bob,15/02/1985,30,0,,,five,Urine
+P0781,STU-781,,,,,,,,Blood
+P0740,STU740,Jane,,30,positive,,,1,Saliva
+P0716,STU-716,Alice,,,,,,4,Saliva
+P0373,STU-373,,1988-12-25,30,indeterminate,,,five,Urine
+P0046,STU-046,Alice,"Feb 20, 1992",25,0,,,five,Blood
+P0978,STU-978,Bob,1990-01-01,,positive,999999,,,Saliva
+P0158,STU-158,,,40,negative,999999,Poor quality,3.0,Blood
+P0803,STU-803,Bob,1988-12-25,40,,,,five,Saliva
+P0172,STU-172,Jane,1995/03/10,,1,999999,Good sample,five,Urine
+P0017,STU-017,,15/02/1985,,0,,,two,Urine
+P0512,STU-512,,"Feb 20, 1992",25,positive,,Good sample,3.0,Blood
+P0049,STU-049,John,15/02/1985,40,negative,,Poor quality,two,Blood
+P0192,STU-192,,,,negative,1000,,,Urine
+P0906,STU-906,,,,positive,,,1,Saliva
+P0516,STU-516,Alice,"Feb 20, 1992",,1,,,3.0,Urine
+P0735,STU-735,Bob,,,0,1000,Poor quality,3.0,Blood
+P0741,STU-741,,15/02/1985,30,1,,,1,Saliva
+P0481,STU-481,Alice,1990-01-01,25,negative,,,,Urine
+P0284,STU-284,Alice,,,negative,1000,,3.0,Saliva
+P0775,STU-775,,"Feb 20, 1992",30,,,Good sample,,Blood
+P0707,STU-707,,,25,,,Poor quality,two,Blood
+P0226,STU-226,,"Feb 20, 1992",thirty-five,,1000,,4,Urine
+P0027,STU-027,Alice,"Feb 20, 1992",,0,,,two,Blood
+P0843,STU-843,,"Feb 20, 1992",40,negative,1000,,two,Saliva
+P0438,STU-438,,1995/03/10,thirty-five,negative,,,1,Urine
+P0365,STU-365,Bob,,40,,,,two,Urine
+P0230,STU230,,,40,1,,,4,Saliva
+P0038,STU-038,Alice,1988-12-25,25,negative,1000,Good sample,five,Saliva
+P0670,STU670,John,"Feb 20, 1992",thirty-five,negative,,,two,Saliva
+P0375,STU-375,,,thirty-five,indeterminate,,,,Blood
+P0470,STU470,John,"Feb 20, 1992",30,0,,,4,Saliva
+P0688,STU-688,John,"Feb 20, 1992",,,,,,Urine
+P0917,STU-917,,,thirty-five,positive,,,,Urine
+P0759,STU-759,,,30,positive,,Poor quality,,Saliva
+P0784,STU-784,Jane,"Feb 20, 1992",thirty-five,0,,Good sample,two,Blood
+P0195,STU-195,Bob,,thirty-five,,1000,Good sample,five,Blood
+P0921,STU-921,John,1988-12-25,,negative,999999,,4,Saliva
+P0931,STU-931,,1988-12-25,30,positive,,,1,Saliva
+P0504,STU-504,Alice,15/02/1985,40,,,,4,Saliva
+P0896,STU-896,,,thirty-five,0,,Good sample,3.0,Saliva
+P0580,STU580,,,30,indeterminate,,,1,Blood
+P0161,STU-161,John,1995/03/10,,0,,Poor quality,1,Urine
+P0681,STU-681,,,40,positive,,,five,Urine
+P0163,STU-163,Jane,1990-01-01,,negative,,,,Saliva
+P0706,STU-706,Alice,1990-01-01,30,negative,,Poor quality,five,Blood
+P0153,STU-153,Bob,,thirty-five,negative,,Poor quality,five,Blood
+P0801,STU-801,,1990-01-01,,0,999999,,two,Saliva
+P0755,STU-755,Jane,1988-12-25,25,,,Good sample,3.0,Saliva
+P0112,STU-112,John,"Feb 20, 1992",,indeterminate,1000,,two,Urine
+P0227,STU-227,John,1995/03/10,thirty-five,indeterminate,999999,,two,Saliva
+P0884,STU-884,,1995/03/10,25,positive,1000,Good sample,,Urine
+P0422,STU-422,,1988-12-25,40,negative,,,five,Urine
+P0420,STU420,,"Feb 20, 1992",40,negative,,Poor quality,five,Urine
+P0809,STU-809,Alice,"Feb 20, 1992",25,1,,,,Saliva
+P0587,STU-587,John,,25,indeterminate,999999,Poor quality,five,Saliva
+P0160,STU160,Bob,,thirty-five,0,,,,Blood
+P0673,STU-673,Jane,15/02/1985,30,,,Poor quality,,Urine
+P0120,STU120,,"Feb 20, 1992",thirty-five,1,,Poor quality,,Blood
+P0054,STU-054,,,30,indeterminate,,,five,Urine
+P0152,STU-152,,1990-01-01,,negative,1000,,3.0,Blood
+P0404,STU-404,Bob,1995/03/10,thirty-five,1,1000,Poor quality,five,Saliva
+P0208,STU-208,Alice,,30,0,,Good sample,3.0,Saliva
+P0659,STU-659,,,40,positive,,,3.0,Blood
+P0910,STU910,,"Feb 20, 1992",30,negative,999999,Good sample,3.0,Blood
+P0979,STU-979,Bob,15/02/1985,30,,999999,,1,Blood
+P0009,STU-009,Jane,1995/03/10,thirty-five,1,,,4,Blood
+P0870,STU870,John,1995/03/10,,negative,1000,,two,Urine
+P0037,STU-037,Jane,1995/03/10,30,0,,Good sample,,Saliva
+P0453,STU-453,John,1995/03/10,30,0,,,two,Urine
+P0652,STU-652,,15/02/1985,,positive,1000,,five,Saliva
+P0254,STU-254,John,,40,positive,,Good sample,two,Saliva
+P0304,STU-304,,1988-12-25,25,negative,,Good sample,4,Saliva
+P0911,STU-911,John,15/02/1985,40,0,1000,,3.0,Saliva
+P0572,STU-572,Alice,"Feb 20, 1992",25,negative,1000,Good sample,3.0,Saliva
+P0624,STU-624,Alice,,,negative,1000,,two,Blood
+P0765,STU-765,John,1988-12-25,40,indeterminate,1000,Good sample,,Saliva
+P0993,STU-993,Jane,,25,1,1000,,1,Saliva
+P0263,STU-263,,,,positive,,Poor quality,,Urine
+P0611,STU-611,Alice,1990-01-01,30,1,,,3.0,Blood
+P0298,STU-298,Alice,"Feb 20, 1992",30,positive,,Good sample,two,Blood
+P0415,STU-415,,"Feb 20, 1992",,,999999,,,Urine
+P0151,STU-151,Alice,"Feb 20, 1992",,,,Poor quality,3.0,Urine
+P0849,STU-849,Jane,,25,positive,,Good sample,4,Saliva
+P0641,STU-641,,1988-12-25,25,,,,1,Urine
+P0957,STU-957,Bob,,,0,,Good sample,five,Urine
+P0551,STU-551,,1990-01-01,,1,,,1,Urine
+P0852,STU-852,Alice,1990-01-01,,positive,,Good sample,1,Saliva
+P0489,STU-489,Jane,,,,999999,,4,Saliva
+P0711,STU-711,Jane,,25,0,,,4,Blood
+P0148,STU-148,,1990-01-01,,positive,999999,,two,Saliva
+P0147,STU-147,,1988-12-25,,positive,,Poor quality,five,Blood
+P0778,STU-778,Bob,"Feb 20, 1992",,1,,,4,Saliva
+P0385,STU-385,,,thirty-five,positive,,Poor quality,,Saliva
+P0951,STU-951,,15/02/1985,40,positive,,,two,Blood
+P0660,STU660,Alice,"Feb 20, 1992",,0,1000,Poor quality,two,Saliva
+P0464,STU-464,Jane,"Feb 20, 1992",,1,999999,,3.0,Blood
+P0326,STU-326,Jane,15/02/1985,25,indeterminate,1000,,1,Saliva
+P0187,STU-187,,,30,negative,,,two,Saliva
+P0124,STU-124,John,15/02/1985,,indeterminate,,,4,Urine
+P0920,STU920,Alice,1988-12-25,,negative,,Poor quality,,Saliva
+P0609,STU-609,Jane,,thirty-five,1,,,two,Urine
+P0144,STU-144,Jane,1990-01-01,40,,,,4,Blood
+P0752,STU-752,,"Feb 20, 1992",40,positive,999999,Good sample,two,Blood
+P0244,STU-244,John,1990-01-01,30,indeterminate,,,4,Urine
+P0198,STU-198,Jane,1990-01-01,,,,Poor quality,five,Saliva
+P0610,STU610,John,1995/03/10,40,positive,,Poor quality,five,Saliva
+P0280,STU280,John,,40,1,999999,Good sample,two,Urine
+P0294,STU-294,,"Feb 20, 1992",25,1,1000,,two,Saliva
+P0897,STU-897,John,1990-01-01,40,positive,,,4,Saliva
+P0401,STU-401,,1995/03/10,thirty-five,,,,4,Blood
+P0123,STU-123,,,thirty-five,indeterminate,,,two,Urine
+P0184,STU-184,,,,positive,,,4,Urine
+P0203,STU-203,,1995/03/10,,,,,five,Urine
+P0439,STU-439,,,thirty-five,positive,,,1,Saliva
+P0247,STU-247,Jane,1995/03/10,30,0,,Poor quality,five,Urine
+P0416,STU-416,Bob,1988-12-25,40,1,999999,Good sample,3.0,Saliva
+P0837,STU-837,,1988-12-25,25,positive,,Poor quality,,Saliva
+P0825,STU-825,Bob,1990-01-01,thirty-five,0,999999,Good sample,1,Blood
+P0975,STU-975,,1995/03/10,,,1000,Good sample,1,Blood
+P0828,STU-828,Alice,1995/03/10,,1,,,1,Urine
+P0955,STU-955,,,,,999999,,1,Blood
+P0130,STU130,John,1995/03/10,,0,,Poor quality,3.0,Blood
+P0638,STU-638,Bob,,25,indeterminate,,Good sample,3.0,Blood
+P0403,STU-403,,,30,1,,Good sample,1,Saliva
+P0845,STU-845,,1988-12-25,40,indeterminate,,,two,Urine
+P0831,STU-831,Alice,,,indeterminate,999999,Good sample,1,Saliva
+P0736,STU-736,,15/02/1985,40,,,,five,Saliva
+P0982,STU-982,Alice,,thirty-five,,,Good sample,3.0,Saliva
+P0220,STU220,John,,40,,1000,,five,Urine
+P0642,STU-642,John,1988-12-25,thirty-five,negative,,Good sample,two,Blood
+P0811,STU-811,John,,,,999999,Poor quality,1,Saliva
+P0868,STU-868,,1995/03/10,25,1,,,five,Blood
+P0989,STU-989,,"Feb 20, 1992",,0,,,1,Urine
+P0625,STU-625,Bob,"Feb 20, 1992",thirty-five,,,Poor quality,4,Blood
+P0904,STU-904,,,,1,,,,Urine
+P0820,STU820,,1990-01-01,40,1,999999,,4,Saliva
+P0387,STU-387,,15/02/1985,40,negative,,,3.0,Blood
+P0943,STU-943,,1995/03/10,25,indeterminate,,,,Saliva
+P0807,STU-807,John,"Feb 20, 1992",thirty-five,indeterminate,999999,,3.0,Blood
+P0510,STU510,Alice,"Feb 20, 1992",40,indeterminate,1000,Poor quality,two,Saliva
+P0268,STU-268,Bob,1995/03/10,40,0,999999,Poor quality,4,Urine
+P0882,STU-882,Jane,1995/03/10,,positive,,Poor quality,five,Urine
+P0442,STU-442,,1990-01-01,,negative,1000,Good sample,3.0,Urine
+P0497,STU-497,John,,,,,,two,Saliva
+P0113,STU-113,Alice,1995/03/10,,indeterminate,,Poor quality,two,Saliva
+P0692,STU-692,John,1988-12-25,,1,,,3.0,Saliva
+P0608,STU-608,,,25,positive,,,,Urine
+P0672,STU-672,Alice,,,1,,,two,Urine
+P0374,STU-374,Alice,,,0,,,five,Blood
+P0664,STU-664,John,15/02/1985,40,indeterminate,,,4,Blood
+P0234,STU-234,,15/02/1985,,negative,,Poor quality,five,Urine
+P0846,STU-846,John,"Feb 20, 1992",,1,999999,,two,Blood
+P0677,STU-677,,1988-12-25,,positive,1000,,five,Saliva
+P0318,STU-318,Jane,"Feb 20, 1992",40,,999999,Good sample,five,Saliva
+P0649,STU-649,Jane,1995/03/10,,indeterminate,999999,,4,Saliva
+P0411,STU-411,,15/02/1985,25,,1000,Good sample,3.0,Urine
+P0966,STU-966,,,40,,,Poor quality,1,Saliva
+P0710,STU710,Bob,15/02/1985,30,1,,,two,Blood
+P0359,STU-359,,,,negative,999999,Good sample,two,Blood
+P0259,STU-259,John,15/02/1985,25,negative,,Poor quality,two,Urine
+P0745,STU-745,Jane,15/02/1985,25,,,Good sample,,Saliva
+P0628,STU-628,Jane,1988-12-25,,1,999999,,two,Urine
+P0633,STU-633,Alice,1995/03/10,30,1,,Poor quality,3.0,Saliva
+P0283,STU-283,,,25,indeterminate,1000,Good sample,4,Urine
+P0377,STU-377,John,1990-01-01,,indeterminate,1000,,1,Urine
+P0225,STU-225,Alice,,thirty-five,indeterminate,,,1,Blood
+P0877,STU-877,,15/02/1985,40,,,Poor quality,3.0,Blood
+P0473,STU-473,Alice,,thirty-five,positive,,,4,Saliva
+P0348,STU-348,Bob,15/02/1985,thirty-five,indeterminate,1000,Poor quality,two,Saliva
+P0640,STU640,Bob,1995/03/10,25,1,,,five,Urine
+P0798,STU-798,,,30,positive,,,1,Urine
+P1000,STU1000,,1995/03/10,,positive,1000,,two,Urine
+P0974,STU-974,,1995/03/10,40,0,,Good sample,five,Saliva
+P0620,STU620,,1995/03/10,30,0,1000,Poor quality,1,Saliva
+P0953,STU-953,Jane,,thirty-five,indeterminate,,,five,Urine
+P0865,STU-865,Alice,,40,,999999,Poor quality,3.0,Saliva
+P0646,STU-646,Jane,,thirty-five,,,Good sample,3.0,Urine
+P0913,STU-913,John,15/02/1985,30,indeterminate,1000,Good sample,,Saliva
+P0557,STU-557,,,40,0,1000,Poor quality,five,Blood
+P0682,STU-682,,1995/03/10,25,,,,,Saliva
+P0578,STU-578,,15/02/1985,30,0,,Good sample,five,Urine
+P0796,STU-796,Alice,1995/03/10,thirty-five,1,999999,Good sample,two,Blood
+P0086,STU-086,Jane,1995/03/10,thirty-five,0,,,3.0,Saliva
+P0243,STU-243,Alice,,25,negative,1000,,two,Blood
+P0699,STU-699,Alice,,,indeterminate,,Good sample,3.0,Saliva
+P0941,STU-941,Bob,15/02/1985,,negative,,,,Blood
+P0525,STU-525,Jane,,,indeterminate,,,1,Blood
+P0036,STU-036,,1995/03/10,25,,1000,Poor quality,,Saliva
+P0541,STU-541,John,1988-12-25,30,,,Poor quality,,Saliva
+P0171,STU-171,,15/02/1985,,,1000,Poor quality,,Saliva
+P0655,STU-655,,,,negative,,,4,Urine
+P0971,STU-971,,,40,0,,Poor quality,,Blood
+P0924,STU-924,,"Feb 20, 1992",40,positive,,,3.0,Urine
+P0914,STU-914,Bob,,,,,,3.0,Blood
+P0734,STU-734,,1990-01-01,,1,,,,Urine
+P0096,STU-096,,1988-12-25,,indeterminate,,,4,Urine
+P0564,STU-564,Alice,,30,1,999999,Good sample,two,Saliva
+P0241,STU-241,,1990-01-01,thirty-five,indeterminate,,Poor quality,two,Blood
+P0743,STU-743,John,,,1,,,,Saliva
+P0864,STU-864,John,1990-01-01,,positive,,,1,Saliva
+P0575,STU-575,John,,30,positive,1000,,five,Blood
+P0691,STU-691,Alice,,30,1,1000,,five,Saliva
+P0461,STU-461,,15/02/1985,,indeterminate,,,,Blood
+P0554,STU-554,,1995/03/10,30,1,,Good sample,4,Saliva
+P0858,STU-858,Jane,1995/03/10,thirty-five,positive,1000,,five,Blood
+P0945,STU-945,,15/02/1985,,negative,1000,Good sample,1,Urine
+P0207,STU-207,Alice,,30,1,999999,Poor quality,,Blood
+P0393,STU-393,Bob,,30,,,,five,Urine
+P0871,STU-871,John,1990-01-01,40,0,1000,,4,Urine
+P0398,STU-398,Alice,,,1,,Poor quality,five,Blood
+P0767,STU-767,Alice,15/02/1985,25,1,,,3.0,Saliva
+P0915,STU-915,,1990-01-01,30,,,,two,Urine
+P0218,STU-218,,,,1,,Poor quality,3.0,Saliva
+P0005,STU-005,Bob,,25,1,999999,Good sample,five,Urine
+P0769,STU-769,,1995/03/10,25,positive,,,4,Blood
+P0643,STU-643,Jane,,40,0,,Poor quality,4,Urine
+P0965,STU-965,,1988-12-25,,positive,999999,Poor quality,3.0,Saliva
+P0613,STU-613,Alice,,,negative,1000,,1,Saliva
+P0739,STU-739,Bob,1990-01-01,25,1,,,3.0,Saliva
+P0547,STU-547,John,1988-12-25,,indeterminate,,,1,Blood
+P0726,STU-726,,,25,indeterminate,1000,,,Urine
+P0986,STU-986,Jane,1990-01-01,30,indeterminate,,,,Urine
+P0684,STU-684,John,1990-01-01,thirty-five,indeterminate,,,1,Saliva
+P0099,STU-099,,,40,positive,,Poor quality,1,Blood
+P0805,STU-805,Alice,1988-12-25,25,,,Good sample,4,Blood
+P0728,STU-728,Jane,,,indeterminate,,,two,Saliva
+P0574,STU-574,,1990-01-01,thirty-five,,999999,,4,Blood
+P0407,STU-407,John,,,1,,,,Saliva
+P0503,STU-503,Bob,1990-01-01,,0,,,1,Urine
+P0048,STU-048,Alice,1995/03/10,thirty-five,0,,,two,Blood
+P0033,STU-033,John,,30,indeterminate,,Poor quality,two,Urine
+P0780,STU780,Alice,,25,indeterminate,,Poor quality,,Urine
+P0840,STU840,John,,,0,,Poor quality,1,Saliva
+P0201,STU-201,,"Feb 20, 1992",thirty-five,indeterminate,,,five,Blood
+P0135,STU-135,,15/02/1985,30,1,,Good sample,,Saliva
+P0028,STU-028,Jane,,,,1000,,two,Urine
+P0947,STU-947,John,,,negative,,Poor quality,1,Blood
+P0231,STU-231,Bob,1988-12-25,40,positive,1000,Poor quality,five,Blood
+P0490,STU490,,,30,,1000,,,Blood
+P0773,STU-773,Alice,"Feb 20, 1992",40,positive,,,3.0,Saliva
+P0379,STU-379,Alice,,40,negative,,Poor quality,,Saliva
+P0289,STU-289,,1988-12-25,,0,,Good sample,3.0,Urine
+P0419,STU-419,,"Feb 20, 1992",40,,,,3.0,Blood
+P0675,STU-675,,,thirty-five,1,,,five,Urine
+P0392,STU-392,Bob,,40,1,1000,,five,Saliva
+P0593,STU-593,Jane,,25,0,999999,,,Blood
+P0139,STU-139,John,,30,negative,,Good sample,1,Blood
+P0063,STU-063,Jane,1990-01-01,,1,,Good sample,1,Saliva
+P0472,STU-472,,1990-01-01,25,negative,,,,Saliva
+P0648,STU-648,,,,0,,Poor quality,3.0,Saliva
+P0129,STU-129,Bob,,thirty-five,0,,,3.0,Urine
+P0521,STU-521,Alice,1995/03/10,30,,,Poor quality,five,Blood
+P0839,STU-839,,,30,positive,,Good sample,,Urine
+P0065,STU-065,Jane,1990-01-01,25,1,,,3.0,Blood
+P0813,STU-813,,,40,indeterminate,,Good sample,five,Saliva
+P0015,STU-015,Alice,1995/03/10,40,,1000,,1,Blood
+P0157,STU-157,,,30,indeterminate,,,five,Saliva
+P0041,STU-041,,1995/03/10,thirty-five,positive,,,,Urine
+P0493,STU-493,,1990-01-01,40,negative,999999,,3.0,Urine
+P0380,STU380,Bob,"Feb 20, 1992",,indeterminate,1000,Good sample,4,Urine
+P0188,STU-188,,1995/03/10,thirty-five,,,,,Saliva
+P0764,STU-764,,,thirty-five,1,999999,Good sample,,Saliva
+P0217,STU-217,,1990-01-01,,indeterminate,1000,,1,Blood
+P0922,STU-922,,,,1,,,two,Blood
+P0792,STU-792,Jane,,25,0,1000,Poor quality,3.0,Blood
+P0053,STU-053,,"Feb 20, 1992",thirty-five,positive,,,4,Saliva
+P0879,STU-879,Bob,,40,positive,999999,Good sample,3.0,Blood
+P0338,STU-338,,1990-01-01,30,indeterminate,,,two,Urine
+P0749,STU-749,,1990-01-01,40,positive,,,3.0,Urine
+P0720,STU720,,15/02/1985,30,positive,,,4,Saliva
+P0725,STU-725,,,,positive,,,two,Urine
+P0296,STU-296,Bob,15/02/1985,30,0,1000,Poor quality,1,Urine
+P0702,STU-702,Bob,1995/03/10,30,indeterminate,,,two,Urine
+P0252,STU-252,Jane,,40,positive,,,3.0,Saliva
+P0462,STU-462,Jane,1990-01-01,25,positive,1000,,3.0,Blood
+P0456,STU-456,Bob,,,indeterminate,999999,,1,Blood
+P0271,STU-271,,1990-01-01,30,indeterminate,,Good sample,4,Saliva
+P0816,STU-816,Jane,1990-01-01,40,positive,,,five,Saliva
+P0863,STU-863,,,,,,Poor quality,1,Urine
+P0270,STU270,Jane,1988-12-25,40,1,,,two,Blood
+P0202,STU-202,John,,25,,999999,,4,Blood
+P0162,STU-162,,1995/03/10,thirty-five,1,,Good sample,4,Blood
+P0556,STU-556,,,,1,1000,,1,Urine
+P0730,STU730,,1995/03/10,thirty-five,negative,1000,,five,Urine
+P0402,STU-402,Alice,,40,,1000,,1,Blood
+P0703,STU-703,Alice,1990-01-01,40,indeterminate,,,4,Saliva
+P0477,STU-477,Alice,,30,0,1000,Good sample,five,Urine
+P0822,STU-822,,1995/03/10,,1,1000,Good sample,4,Saliva
+P0772,STU-772,,,thirty-five,,,,,Blood
+P0106,STU-106,,,,0,,Good sample,five,Blood
+P0566,STU-566,Bob,1990-01-01,25,1,,,3.0,Blood
+P0390,STU390,Bob,15/02/1985,,,,Poor quality,,Blood
+P0002,STU-002,Alice,15/02/1985,,indeterminate,,Poor quality,4,Saliva
+P0562,STU-562,,,30,negative,1000,,1,Urine
+P0932,STU-932,Jane,,thirty-five,positive,,Good sample,,Saliva
+P0081,STU-081,Alice,,40,positive,,,4,Saliva
+P0206,STU-206,Alice,1995/03/10,30,,,Poor quality,two,Blood
+P0035,STU-035,Bob,,30,,999999,,five,Blood
+P0776,STU-776,Alice,,25,positive,,Poor quality,3.0,Blood
+P0509,STU-509,Alice,15/02/1985,,negative,,,3.0,Urine
+P0428,STU-428,Alice,,40,0,999999,Poor quality,1,Blood
+P0455,STU-455,John,1995/03/10,,0,,,1,Blood
+P0367,STU-367,John,,30,,1000,,4,Blood
+P0092,STU-092,Jane,1995/03/10,,0,,Poor quality,,Saliva
+P0340,STU340,John,,30,1,1000,,4,Blood
+P0898,STU-898,Jane,"Feb 20, 1992",,1,,Good sample,,Urine
+P0565,STU-565,Jane,,,,,,4,Urine
+P0242,STU-242,John,1988-12-25,thirty-five,negative,,,1,Saliva
+P0014,STU-014,,1988-12-25,thirty-five,1,1000,Good sample,3.0,Urine
+P0316,STU-316,John,,,,,,two,Saliva
+P0601,STU-601,Jane,1988-12-25,25,,,,1,Urine
+P0388,STU-388,,,,0,,Poor quality,,Urine
+P0274,STU-274,,1990-01-01,,indeterminate,,,3.0,Urine
+P0167,STU-167,,1990-01-01,40,negative,,,4,Urine
+P0841,STU-841,,15/02/1985,40,1,999999,,4,Urine
+P0021,STU-021,,,30,indeterminate,,,,Saliva
+P0647,STU-647,Jane,,thirty-five,positive,999999,,3.0,Blood
+P0819,STU-819,,,,1,999999,,3.0,Urine
+P0485,STU-485,,,thirty-five,positive,999999,,4,Saliva
+P0253,STU-253,Bob,1988-12-25,30,0,999999,,,Saliva
+P0505,STU-505,,"Feb 20, 1992",40,1,,,3.0,Blood
+P0832,STU-832,John,"Feb 20, 1992",,positive,,,two,Urine
+P0567,STU-567,,,,negative,1000,,1,Urine
+P0876,STU-876,,"Feb 20, 1992",,indeterminate,1000,Poor quality,1,Urine
+P0563,STU-563,Bob,1995/03/10,40,1,1000,Poor quality,,Urine
+P0687,STU-687,,1988-12-25,,0,,Good sample,two,Urine
+P0958,STU-958,Bob,15/02/1985,,negative,1000,,five,Saliva
+P0190,STU190,,,30,1,,,3.0,Saliva
+P0976,STU-976,,1988-12-25,,positive,,,4,Saliva
+P0700,STU700,,,40,positive,,,five,Urine
+P0511,STU-511,,15/02/1985,,indeterminate,1000,,two,Blood
+P0475,STU-475,,,25,positive,,,4,Saliva
+P0857,STU-857,Jane,,40,1,1000,Poor quality,two,Saliva
+P0748,STU-748,,"Feb 20, 1992",,1,,,,Urine
+P0022,STU-022,,,25,indeterminate,,,1,Urine
+P0460,STU460,Jane,,,indeterminate,,,five,Urine
+P0277,STU-277,,"Feb 20, 1992",,1,999999,,4,Blood
+P0956,STU-956,,,25,indeterminate,1000,,,Saliva
+P0386,STU-386,,15/02/1985,,0,,,3.0,Blood
+P0806,STU-806,,"Feb 20, 1992",40,positive,,,1,Saliva
+P0344,STU-344,Alice,1990-01-01,40,positive,1000,,4,Saliva
+P0770,STU770,,15/02/1985,,0,,Poor quality,4,Urine
+P0131,STU-131,Bob,1990-01-01,40,,,Good sample,1,Urine
+P0872,STU-872,,15/02/1985,,0,,,4,Saliva
+P0088,STU-088,,1990-01-01,30,negative,1000,,1,Saliva
+P0331,STU-331,Jane,,25,positive,,Poor quality,4,Saliva
+P0467,STU-467,Alice,1995/03/10,,positive,999999,,,Urine
+P0122,STU-122,John,1988-12-25,,1,1000,,five,Urine
+P0861,STU-861,Alice,1995/03/10,40,,1000,Good sample,,Blood
